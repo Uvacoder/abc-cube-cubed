@@ -1,5 +1,7 @@
 # Cube Coach
 
+- https://github.com/lukejacksonn/cube.git
+
 > An interactive guide to solving the Rubik's cube
 
 A progressive web app built to help demonstrate all the optimal F2L, OLL and PLL moves when solving the Rubik's Cube by means of the CFOP method. Inspired and powered by code from a [google doodle](https://github.com/stewdio/Cuber-DEMO) once upon a time.
